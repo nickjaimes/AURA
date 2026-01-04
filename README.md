@@ -2,13 +2,6 @@
 
 AURA: Advanced Unified Robotic Assistant 🤖⚛️📡
 
-https://img.shields.io/badge/AURA-Quantum_6G_AI_Humanoid-blueviolet
-https://img.shields.io/badge/Status-Research_Concept-orange
-https://img.shields.io/badge/Quantum-128_Qubits-8A2BE2
-https://img.shields.io/badge/6G-Terahertz_Connectivity-00BFFF
-https://img.shields.io/badge/Healthcare-Elderly_Care_Emergency_Response-32CD32
-https://img.shields.io/badge/License-MIT-green
-
 Overview 🌟
 
 AURA (Advanced Unified Robotic Assistant) is a groundbreaking sixth-generation humanoid robot that integrates quantum computing, 6G communications, and embodied artificial intelligence to revolutionize healthcare, elderly care, and emergency response systems.
